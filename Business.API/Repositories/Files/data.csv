@@ -1,0 +1,13 @@
+﻿Id,Description,ScheduleEnd,ScheduleStart
+1,pets store,14:00,09:30
+2,farmacy,17:00,08:00
+3,farmacy,12:59,10:01
+4,farmacy,13:00,11:00
+5,farmacy,11:11,08:01
+6,ATM,14:00,11:30
+7,ATM,16:00,14:00
+8,Italian Restaurant,16:00,23:00
+9,Dolys Salon,08:00,17:00
+10,Gas Station,00:00,23:59
+11,Coffee Shop,08:00,17:00
+12,pets store,09:00,07:00
